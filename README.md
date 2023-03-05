@@ -1,5 +1,4 @@
 # IIT-Kanpur---Data-Analytics-Certification-Project-2
-IIT-Kanpur---Data-Analytics-Certification Project-2
 # Project-2 Retail Store Opening Decision Making
 # Problem Statement: o predict if a store should be opened in a particular area depending on sales, population, area, etc.
 # Aim: To Build a machine learning predictive model and predict the accurate Store Opening requirement.The evalution metric will be AUC.
